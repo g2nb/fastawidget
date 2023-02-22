@@ -19,7 +19,6 @@ setup_args = dict(
     install_requires=[
         "jupyterlab>=3.0",
         "ipywidgets>=7.0.0",
-        "jupyterlab-fasta"
     ],
     zip_safe=False,
     include_package_data=True,
